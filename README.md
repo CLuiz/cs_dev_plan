@@ -1,5 +1,5 @@
 # cs_dev_plan
-My personal development past, present, and future in regards to computer science.
+My personal development past, present, and future in regards to computer science, data science, math, etc.
 
 # Contents
 
@@ -49,7 +49,7 @@ My goal is to be a better data scientist. I believe I can do so applying a mixed
   - foo
   - bar
 
-- Traditionally offered classes:
+- Traditionally Offered Classes:
   - Undergrad
     - Calc 1-3 
       - Self explanatory
@@ -77,6 +77,39 @@ My goal is to be a better data scientist. I believe I can do so applying a mixed
     - Advanced Inorganic Chemistry 1 & 2
       - Group theory, symmetry operations
       - My introduction to abstract algebra
+      
+- Non-traditional In Person Instruction
+  - Galvanize Data Science Immersive
+  
+- MOOC Certificate Programs
+  - Data Science for Executives (Columbia University via Edx)
+    - Classes:
+      - Statistical Thinking for Data Science and Analytics
+      - Machine Learning for Data Science and Analytics
+      - Enabling Technologies for Data Science and Analytics: The Internet of Things
+  - Software Product Management (University of Alberta via Coursera)
+    - link: https://www.coursera.org/account/accomplishments/specialization/F56XLQSAJHGE
+    - Classes:
+      - Introduction to Software Product Management
+      - Software Processes and Agile Practices
+      - Client Needs and Software Requirements
+      - Agile Planning for Software Products
+      - Reviews & Metrics for Software Improvements
+  - Executive Data Science ( Johns Hopkins University via Coursera)
+    - link: https://www.coursera.org/account/accomplishments/specialization/NS2NFFTCXKZE
+    - Classes:
+      - A Crash Course in Data Science
+      - Building a Data Science Team
+      - Managing Data Analysis
+      - Data Science in Real Life
+      - Executive Data Science Capstone
+
+- Standalone MOOCS (roughly by subject)
+  - Data Science
+  - Computer Science
+  - Math
+  
+    
     
 In support of 
 # Methodology
