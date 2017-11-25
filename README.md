@@ -48,7 +48,36 @@ My goal is to be a better data scientist. I believe I can do so applying a mixed
   - Computer Science topics
   - foo
   - bar
-  
+
+- Traditionally offered classes:
+  - Undergrad
+    - Calc 1-3 
+      - Self explanatory
+    - Mathematics for the physical sciences
+      - multivariable calc
+      - differential equations
+      - linear algebra
+    - General chemistry 1-3
+      - Basic science series
+    - General physics 1-3
+    - Organic chemistry 1-3
+      - Lab technique, experimental design
+    - Physical Chemistry 1
+      - Thermodynamics & statistical mechanics
+    - Physcal Chemistry 2
+      - Gases & fluids
+    - Physical Chemistry 3
+      - Quantum chemistry & mechanics
+      - Linear algebra, vector calculus, qft, hilbert spaces, much more
+   - Graduate
+    - Statistical analysis of data
+      - Inferential & descriptive stats
+    - Spectral analysis
+      - Signal processing
+    - Advanced Inorganic Chemistry 1 & 2
+      - Group theory, symmetry operations
+      - My introduction to abstract algebra
+    
 In support of 
 # Methodology
 # Curriculum
