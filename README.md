@@ -102,6 +102,18 @@ where I develop familiarity with a broad range of topics, and go deep on those t
       
 - Non-traditional In Person Instruction
   - Galvanize Data Science Immersive
+    - Grounded in Python, Galvanize's Data Science Immersive covers all the necessary tools and 
+      concepts used by data scientists in industry, including machine learning, statistical inference, 
+      and working with data at scale. The program is project based, and includes the development of 
+      numerous data science applications. Topics include:
+      - Exploratory Data Analysis and Software Engineering Best Practices
+      - Statistical Inference, Bayesian Methods, A/B Testing, Multi-Armed Bandit
+      - Regression, Regularization, Gradient Descent
+      - Supervised Machine Learning: Classification, Validation, Ensemble Methods
+      - Clustering, Topic Modeling (NMF, LDA), NLP
+      - Network Analysis, Matrix Factorization, and Time Series
+      - Hadoop, Hive, and MapReduce
+      - Data Visualization with D3.js and Data Product Development
   
 - MOOC Certificate Programs
   - Data Science for Executives (Columbia University via Edx)
