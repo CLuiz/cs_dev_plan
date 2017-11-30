@@ -23,10 +23,6 @@ it based on my current skill and/or previous education.
   - [Pro CS](#pro-cs)
   - [Special Topics](#special-topics)
 - [Background](#background)
-- [Code of conduct](#code-of-conduct)
-- [Community](#community)
-  - [How to show your progress](#how-to-show-your-progress)
-  - [Team](#team)
 - [References](#references)
 
 # Summary
@@ -292,7 +288,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics | Completed Equivalent - UG
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1 | Completed Equivalent - UG
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism | Compare to [6002.x](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
 
@@ -331,9 +327,35 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability |
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus |
 
-### Advanced applications
-## Pro CS
-## Special Topics
+
+## CS Special Topics
+
+### General Deep Learning/AI 
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+FastA1 course 1 | | | |
+FastAI course 2 | | | |
+AI course | | | |
+
+### Reinforcement Learning
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+Reinforcement learning course/series(http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)| | | |
+Reinforcement learning course/series(http://rll.berkeley.edu/deeprlcourse/)| | | |
+Reinforcement learning course/series(https://www.udacity.com/course/reinforcement-learning--ud600)| | | |
+
+### Misc
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+Advanced algorithms | | | |
+
+
+## Math Special Topics
+Courses | Duration | Effort | Prerequisites | Notes
+:-- | :--: | :--: | :--: | :--:
+Graph Theory | | | |
+Topology | | | |
+
 
 # Background
 - I have strong experience in a few sub-domains of data science
