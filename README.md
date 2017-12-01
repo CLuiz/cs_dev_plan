@@ -454,7 +454,5 @@ Graph Theory | | | |
   - Computer Science
   - Math
   
-    
-    
-In support of 
-# Curriculum
+# References
+  - http://csmajor.stanford.edu/ProgramSheets.shtml 
