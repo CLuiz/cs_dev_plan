@@ -213,7 +213,6 @@ Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week | some programming, basic CS |
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | Complete!
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra |
 [Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | linear algebra, probability |
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design |
 [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction |
@@ -319,13 +318,14 @@ If you are struggling, you can find a physics MOOC or utilize the materials from
 
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory |
-[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms |
-[Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS |
-[Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1 |
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++ |
-[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability |
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus |
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory | -
+[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms | -
+[Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS | -
+[Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1 | -
+[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++ | -
+[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability | -
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus | -
+[Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) | 11 weeks | 12 hours/week | algorithms, data structures | - 
 
 
 ## CS Special Topics
@@ -333,9 +333,10 @@ Courses | Duration | Effort | Prerequisites | Notes
 ### General Deep Learning/AI 
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[Deep Learning With Tensorflow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | | | | Complete!
-[FastA1 course 1](http://course.fast.ai/) | | | |
-[FastAI course 2](http://course.fast.ai/part2.html) | | | |
+[Deep Learning With Tensorflow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | 1 week | 10 hours | python, deep learning | Complete!
+[FastA1 Course 1](http://course.fast.ai/) | 7 weeks | 10 hours/week | python | -
+[FastAI Course 2](http://course.fast.ai/part2.html) | 7 weeks | 10 hours/week | python, FastAI Course 1 | - 
+[Computer Vision[(cv course) | | | |
 AI course | | | |
 
 ### Reinforcement Learning
