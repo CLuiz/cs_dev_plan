@@ -333,28 +333,29 @@ Courses | Duration | Effort | Prerequisites | Notes
 ### General Deep Learning/AI 
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-FastA1 course 1 | | | |
-FastAI course 2 | | | |
+[Deep Learning With Tensorflow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | | | | Complete!
+[FastA1 course 1](http://course.fast.ai/) | | | |
+[FastAI course 2](http://course.fast.ai/part2.html) | | | |
 AI course | | | |
 
 ### Reinforcement Learning
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-Reinforcement learning course/series(http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)| | | |
-Reinforcement learning course/series(http://rll.berkeley.edu/deeprlcourse/)| | | |
-Reinforcement learning course/series(https://www.udacity.com/course/reinforcement-learning--ud600)| | | |
+[UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)| | | |
+[Berkely CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)| | | |
+[Udacity Reinforcement Learning Course](https://www.udacity.com/course/reinforcement-learning--ud600)| | | |
 
 ### Misc
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-Advanced algorithms | | | |
+[MIT 6.854J EE & CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/) | | | |
 
 
 ## Math Special Topics
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
 Graph Theory | | | |
-Topology | | | |
+[MIT Math 18.901 Topology](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/) | | | |
 
 
 # Background
