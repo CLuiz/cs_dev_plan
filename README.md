@@ -133,7 +133,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra |
 [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus | Completed Equivalent - UG
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One | Completed Equivalent - UG
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two) | In progress
 
 **<sup>1</sup> Note**: When you are enrolled, please see this
 [list of errors](https://www.coursera.org/learn/calculus1/discussions/forums/WcY9_8ayEeSWEiIAC0wC5g/threads/CgOJwV-jEeWncxKXIFxpFQ/replies/kH6u_2FPEeWukw4fFhIvKw)
