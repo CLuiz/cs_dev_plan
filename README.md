@@ -336,8 +336,8 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Deep Learning With Tensorflow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | 1 week | 10 hours | python, deep learning | Complete!
 [FastA1 Course 1](http://course.fast.ai/) | 7 weeks | 10 hours/week | python | -
 [FastAI Course 2](http://course.fast.ai/part2.html) | 7 weeks | 10 hours/week | python, FastAI Course 1 | - 
-[Computer Vision[(cv course) | | | |
-AI course | | | |
+[Computer Vision](cv course) | | | |-
+AI course | | | |-
 
 ### Reinforcement Learning
 Courses | Duration | Effort | Prerequisites | Notes
