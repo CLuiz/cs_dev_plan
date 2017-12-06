@@ -358,6 +358,18 @@ Courses | Duration | Effort | Prerequisites | Notes
 Graph Theory | | | |
 [MIT Math 18.901 Topology](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/) | | | |
 
+## Reading List
+Book | Topic | Effort | Owned | Notes
+:-- | :--: | :--: | :--: | :--:
+Coding the Matrix | Linear Algebra | Core| Yes |
+The Mythical Man Month | Software Development | Intermediate | Yes | In Progress
+The Pragmatic Programmer | Effective Software Development| Intermediate | Yes | Complete!
+Collective Intelligence | Machine Learning | Intermediate | Yes | Complete!
+Javascript: The Good Parts | Javascript | ? | Yes | Complete!
+Doing Data Science | Data Science | Intro (for ds) | Yes | Complete!
+Introduction to Computation and Programming Using Python | Python | Intro | Yes | Complete!
+Test Driven Development with Python | Python/TDD | Intermediate | Yes | In Progress
+Data Science From Scratch | Python/DS | Intermediate | Yes | Complete!
 
 # Background
 - I have strong experience in a few sub-domains of data science
