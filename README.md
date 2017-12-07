@@ -355,7 +355,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 ## Math Special Topics
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-Graph Theory | | | |
+[MIT Math 18.315](https://ocw.mit.edu/courses/mathematics/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005) | 13 weeks | 12 hours/week | Graph Theory|
 [MIT Math 18.901 Topology](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/) | | | |
 
 ## Reading List
