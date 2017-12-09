@@ -359,17 +359,19 @@ Courses | Duration | Effort | Prerequisites | Notes
 [MIT Math 18.901 Topology](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/) | | | |
 
 ## Reading List
-Book | Topic | Effort | Owned | Notes
-:-- | :--: | :--: | :--: | :--:
-Coding the Matrix | Linear Algebra | Core| Yes |
-The Mythical Man Month | Software Development | Intermediate | Yes | In Progress
-The Pragmatic Programmer | Effective Software Development| Intermediate | Yes | Complete!
-Collective Intelligence | Machine Learning | Intermediate | Yes | Complete!
-Javascript: The Good Parts | Javascript | ? | Yes | Complete!
-Doing Data Science | Data Science | Intro (for ds) | Yes | Complete!
-Introduction to Computation and Programming Using Python | Python | Intro | Yes | Complete!
-Test Driven Development with Python | Python/TDD | Intermediate | Yes | In Progress
-Data Science From Scratch | Python/DS | Intermediate | Yes | Complete!
+Book | Author | Topic | Effort | Owned | Notes
+:-- | :--: | :--: | :--: | :--: | :--:
+Coding the Matrix | | Linear Algebra | Core| Yes |
+The Mythical Man Month | | Software Development | Intermediate | Yes | In Progress
+The Pragmatic Programmer | | Effective Software Development| Intermediate | Yes | Complete!
+Collective Intelligence | | Machine Learning | Intermediate | Yes | Complete!
+Javascript: The Good Parts | | Javascript | ? | Yes | Complete!
+Doing Data Science | | Data Science | Intro (for ds) | Yes | Complete!
+Introduction to Computation and Programming Using Python | | Python | Intro | Yes | Complete!
+Test Driven Development with Python | | Python/TDD | Intermediate | Yes | In Progress
+Data Science From Scratch | | Python/DS | Intermediate | Yes | Complete!
+[Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow/Bengio/Courville | Deep Learning | Advanced | Yes | In Progress
+
 
 # Background
 - I have strong experience in a few sub-domains of data science
