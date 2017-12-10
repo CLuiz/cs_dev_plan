@@ -361,11 +361,11 @@ Courses | Duration | Effort | Prerequisites | Notes
 ## Reading List
 Book | Author | Topic | Effort | Owned | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
-Coding the Matrix | | Linear Algebra | Core| Yes |
-The Mythical Man Month | | Software Development | Intermediate | Yes | In Progress
-The Pragmatic Programmer | | Effective Software Development| Intermediate | Yes | Complete!
-Collective Intelligence | | Machine Learning | Intermediate | Yes | Complete!
-Javascript: The Good Parts | | Javascript | ? | Yes | Complete!
+[Coding the Matrix](https://www.amazon.com/Coding-Matrix-Algebra-Applications-Computer/dp/0615880991/ref=sr_1_1?s=books&ie=UTF8&qid=1512875210&sr=1-1&keywords=coding+the+matrix) | Klein | Linear Algebra | Core| Yes |
+[The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) | Brooks | Software Development | Intermediate | Yes | In Progress
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1512875242&sr=1-1&keywords=pragmatic+programmer) | Hunt/Thomas | Effective Software Development| Intermediate | Yes | Complete!
+[Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?s=books&ie=UTF8&qid=1512875288&sr=1-1&keywords=collective+intelligence) | Segaran| Machine Learning | Intermediate | Yes | Complete!
+[Javascript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1512875333&sr=1-1&keywords=Javascript%3A+The+Good+Parts) | Crockford | Javascript | ? | Yes | Complete!
 Doing Data Science | | Data Science | Intro (for ds) | Yes | Complete!
 Introduction to Computation and Programming Using Python | | Python | Intro | Yes | Complete!
 Test Driven Development with Python | | Python/TDD | Intermediate | Yes | In Progress
