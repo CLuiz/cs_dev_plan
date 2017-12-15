@@ -361,7 +361,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 ## Reading List
 Book | Author | Topic | Effort | Owned | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
-[Coding the Matrix](https://www.amazon.com/Coding-Matrix-Algebra-Applications-Computer/dp/0615880991/ref=sr_1_1?s=books&ie=UTF8&qid=1512875210&sr=1-1&keywords=coding+the+matrix) | Klein | Linear Algebra | Core| Yes |
+[Coding the Matrix](https://www.amazon.com/Coding-Matrix-Algebra-Applications-Computer/dp/0615880991/ref=sr_1_1?s=books&ie=UTF8&qid=1512875210&sr=1-1&keywords=coding+the+matrix) | Klein | Linear Algebra | Core| Yes | In Progress
 [The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) | Brooks | Software Development | Intermediate | Yes | Complete!
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1512875242&sr=1-1&keywords=pragmatic+programmer) | Hunt/Thomas | Effective Software Development| Intermediate | Yes | Complete!
 [Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?s=books&ie=UTF8&qid=1512875288&sr=1-1&keywords=collective+intelligence) | Segaran| Machine Learning | Intermediate | Yes | Complete!
@@ -370,7 +370,7 @@ Book | Author | Topic | Effort | Owned | Notes
 [Introduction to Computation and Programming Using Python](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003/ref=sr_1_fkmr2_3?s=books&ie=UTF8&qid=1512922609&sr=1-3-fkmr2&keywords=intro+computation+programming+python) | Guttag | Python | Intro | Yes | Complete!
 [Test Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1512922570&sr=1-1-fkmr1&keywords=test+driven+dev+python) | Percival | Python/TDD | Intermediate | Yes | In Progress
 [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=149190142X&pd_rd_r=EDG7YC8NBKHBCRR0QRC5&pd_rd_w=t03yP&pd_rd_wg=9vnMb&psc=1&refRID=EDG7YC8NBKHBCRR0QRC5) | Grus | Python/DS | Intermediate | Yes | Complete!
-[Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow, Bengio & Courville | Deep Learning | Advanced | Yes | In Progress
+[Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow, Bengio & Courville | Deep Learning | Advanced | Yes | In Progress/Reference
 
 
 # [Background](https://github.com/CLuiz/cs_dev_plan/blob/master/background.md)
