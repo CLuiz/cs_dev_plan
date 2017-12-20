@@ -372,6 +372,8 @@ Book | Author | Topic | Effort | Owned | Notes
 [Test Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1512922570&sr=1-1-fkmr1&keywords=test+driven+dev+python) | Percival | Python/TDD | Intermediate | Yes | In Progress
 [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=149190142X&pd_rd_r=EDG7YC8NBKHBCRR0QRC5&pd_rd_w=t03yP&pd_rd_wg=9vnMb&psc=1&refRID=EDG7YC8NBKHBCRR0QRC5) | Grus | Python/DS | Intermediate | Yes | Complete!
 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow, Bengio & Courville | Deep Learning | Advanced | Yes | In Progress/Reference
+[Programming Computer Vision with Python](http://programmingcomputervision.com/) | Solem | Computer Vision | Advanced | Yes | [Complete](https://github.com/CLuiz/python_cv)
+
 
 
 # [Background](https://github.com/CLuiz/cs_dev_plan/blob/master/background.md)
