@@ -374,6 +374,7 @@ Book | Author | Topic | Effort | Owned | Notes
 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow, Bengio & Courville | Deep Learning | Advanced | Yes | In Progress/Reference
 [Programming Computer Vision with Python](http://programmingcomputervision.com/) | Solem | Computer Vision | Advanced | Yes | [Complete](https://github.com/CLuiz/python_cv)
 [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1514038992&sr=8-1&keywords=machine+learning) | Geron | Machine Learning | Intermediate | Yes | Complete
+[Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_sc_3?ie=UTF8&qid=1514148427&sr=8-3-spell&keywords=machien+learnin) | Raschka | Machine Learning | Intermediate | Yes | Complete
 
 
 # [Background](https://github.com/CLuiz/cs_dev_plan/blob/master/background.md)
