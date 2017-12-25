@@ -380,4 +380,5 @@ Book | Author | Topic | Effort | Owned | Notes
 # [Background](https://github.com/CLuiz/cs_dev_plan/blob/master/background.md)
 
 # References
-  - http://csmajor.stanford.edu/ProgramSheets.shtml 
+  - http://csmajor.stanford.edu/ProgramSheets.shtml
+  - https://github.com/ossu/computer-science/blob/master/README.md
