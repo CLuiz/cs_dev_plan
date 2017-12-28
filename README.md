@@ -358,7 +358,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 [MIT Math 18.315](https://ocw.mit.edu/courses/mathematics/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005) | 13 weeks | 12 hours/week | Graph Theory|
 [MIT Math 18.901 Topology](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/) | | | |
 
-## [Reading List](https://github.com/CLuiz/cs_dev_plan/blob/master/reading_list.md)
+# [Reading List](https://github.com/CLuiz/cs_dev_plan/blob/master/reading_list.md)
 
 # [Background](https://github.com/CLuiz/cs_dev_plan/blob/master/background.md)
 
