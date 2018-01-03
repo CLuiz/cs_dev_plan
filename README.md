@@ -20,8 +20,7 @@ it based on my current skill and/or previous education.
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
   - [Advanced Math](#advanced-math)
-  - [Pro CS](#pro-cs)
-  - [Special Topics](#special-topics)
+  - [Special Topics](#cs-special-topics)
 - [Background](#background)
 - [References](#references)
 
