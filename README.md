@@ -364,3 +364,4 @@ Courses | Duration | Effort | Prerequisites | Notes
 # References
   - http://csmajor.stanford.edu/ProgramSheets.shtml
   - https://github.com/ossu/computer-science/blob/master/README.md
+  - http://datasciencemasters.org/
