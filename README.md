@@ -341,7 +341,7 @@ AI course | | | |-
 ### Reinforcement Learning
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)| 10 weeks | 5 hours/week | reinforcement learning | -
+[UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)| 10 weeks | 5 hours/week | reinforcement learning | In Progress
 [Berkely CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)| 12 weeks | 10 hours/week | reinforcement learning | -
 [Udacity Reinforcement Learning Course](https://www.udacity.com/course/reinforcement-learning--ud600)| 16 weeks | 6 hours/week | reinforcement learning | -
 
