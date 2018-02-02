@@ -15,4 +15,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Programming Computer Vision with Python](http://programmingcomputervision.com/) | Solem | Computer Vision | Advanced | Yes | [Complete](https://github.com/CLuiz/python_cv)
 [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1514038992&sr=8-1&keywords=machine+learning) | Geron | Machine Learning | Intermediate | Yes | Complete
 [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_sc_3?ie=UTF8&qid=1514148427&sr=8-3-spell&keywords=machien+learnin) | Raschka | Machine Learning | Intermediate | Yes | Complete
-[Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python| Chollet | Deep Learing/Keras/Tensorflow | Advanced | Borrowed | In Progress
+[Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python)| Chollet | Deep Learing/Keras/Tensorflow | Advanced | Borrowed | In Progress
