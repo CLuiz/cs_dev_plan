@@ -17,4 +17,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_sc_3?ie=UTF8&qid=1514148427&sr=8-3-spell&keywords=machien+learnin) | Raschka | Machine Learning | Intermediate | Yes | Complete
 [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python)| Chollet | Deep Learning/Keras/Tensorflow | Advanced | Owned | In Progress
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)| Russell/Norvig | Artificial Intelligence | Advanced | Owned | -
-[Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta/Papadimitriou/Vazirani| Algorithms | Advanced | Owned | In Progress
+[Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta, Papadimitriou, Vazirani| Algorithms | Advanced | Owned | In Progress
