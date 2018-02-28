@@ -3,7 +3,7 @@ Book | Author | Topic | Effort | Owned | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Coding the Matrix](https://www.amazon.com/Coding-Matrix-Algebra-Applications-Computer/dp/0615880991/ref=sr_1_1?s=books&ie=UTF8&qid=1512875210&sr=1-1&keywords=coding+the+matrix) | Klein | Linear Algebra | Core| Yes | In Progress
 [The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) | Brooks | Software Development | Intermediate | Yes | Complete!
-[How to Solve it](https://www.amazon.com/gp/offer-listing/069111966X/ref=dp_olp_new?ie=UTF8&condition=new) | Polya | Mathematical Intuition | Intro | Yes | In Progress
+[How to Solve it](https://www.amazon.com/gp/offer-listing/069111966X/ref=dp_olp_new?ie=UTF8&condition=new) | Polya | Mathematical Intuition | Intro | Yes | Complete!
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1512875242&sr=1-1&keywords=pragmatic+programmer) | Hunt/Thomas | Effective Software Development| Intermediate | Yes | Complete!
 [Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?s=books&ie=UTF8&qid=1512875288&sr=1-1&keywords=collective+intelligence) | Segaran| Machine Learning | Intermediate | Yes | Complete!
 [Javascript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1512875333&sr=1-1&keywords=Javascript%3A+The+Good+Parts) | Crockford | Javascript | ? | Yes | Complete!
@@ -17,3 +17,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_sc_3?ie=UTF8&qid=1514148427&sr=8-3-spell&keywords=machien+learnin) | Raschka | Machine Learning | Intermediate | Yes | Complete
 [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python)| Chollet | Deep Learning/Keras/Tensorflow | Advanced | Owned | In Progress
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)| Russell/Norvig | Artificial Intelligence | Advanced | Owned | -
+[Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta/Papadimitriou/Vazirani| Algorithms | Advanced | Owned | In Progress
