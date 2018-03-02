@@ -18,5 +18,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python)| Chollet | Deep Learning/Keras/Tensorflow | Advanced | Owned | In Progress
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)| Russell/Norvig | Artificial Intelligence | Advanced | Owned | -
 [Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta, Papadimitriou, Vazirani| Algorithms | Advanced | Owned | In Progress
-
 [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) | CLRS| Algorithms | Intermediate | Owned | Reference
