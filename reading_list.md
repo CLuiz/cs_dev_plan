@@ -19,3 +19,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)| Russell/Norvig | Artificial Intelligence | Advanced | Owned | -
 [Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta, Papadimitriou, Vazirani| Algorithms | Advanced | Owned | In Progress
 [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) | CLRS| Algorithms | Intermediate | Owned | Reference
+[Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | Bhargava | Algorithms | Review | Owned | Complete!
