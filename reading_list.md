@@ -20,3 +20,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta, Papadimitriou, Vazirani| Algorithms | Advanced | Owned | In Progress
 [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) | CLRS| Algorithms | Intermediate | Owned | Reference
 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | Bhargava | Algorithms | Review | Owned | Complete!
+[Conrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_1?ie=UTF8&qid=1520473744&sr=8-1&keywords=concrete+mathematics) | Graham, Knuth, Patashnik | Math for Computer Science | Intermediate | Owned | Reference
