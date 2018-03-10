@@ -13,11 +13,12 @@ Book | Author | Topic | Effort | Owned | Notes
 [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=149190142X&pd_rd_r=EDG7YC8NBKHBCRR0QRC5&pd_rd_w=t03yP&pd_rd_wg=9vnMb&psc=1&refRID=EDG7YC8NBKHBCRR0QRC5) | Grus | Python/DS | Intermediate | Yes | Complete!
 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1512785297&sr=1-4&keywords=neural+networks) | Goodfellow, Bengio & Courville | Deep Learning | Advanced | Yes | In Progress/Reference
 [Programming Computer Vision with Python](http://programmingcomputervision.com/) | Solem | Computer Vision | Advanced | Yes | [Complete](https://github.com/CLuiz/python_cv)
-[Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1514038992&sr=8-1&keywords=machine+learning) | Geron | Machine Learning | Intermediate | Yes | Complete
-[Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_sc_3?ie=UTF8&qid=1514148427&sr=8-3-spell&keywords=machien+learnin) | Raschka | Machine Learning | Intermediate | Yes | Complete
+[Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | Geron | Machine Learning | Intermediate | Yes | Complete
+[Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939) | Raschka | Machine Learning | Intermediate | Yes | Complete
 [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python)| Chollet | Deep Learning/Keras/Tensorflow | Advanced | Owned | In Progress
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)| Russell/Norvig | Artificial Intelligence | Advanced | Owned | -
 [Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)| Dasgupta, Papadimitriou, Vazirani| Algorithms | Advanced | Owned | In Progress
 [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) | CLRS| Algorithms | Intermediate | Owned | Reference
 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | Bhargava | Algorithms | Review | Owned | Complete!
-[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_1?ie=UTF8&qid=1520473744&sr=8-1&keywords=concrete+mathematics) | Graham, Knuth, Patashnik | Math for Computer Science | Intermediate | Owned | Reference
+[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/) | Graham, Knuth, Patashnik | Math for Computer Science | Intermediate | Owned | Reference
+[Thinking Mathematically](https://www.amazon.com/Thinking-Mathematically-2nd-J-Mason/dp/0273728911) | Mason | Math | Intermediate | Owned | On Deck
