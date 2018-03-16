@@ -22,3 +22,4 @@ Book | Author | Topic | Effort | Owned | Notes
 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | Bhargava | Algorithms | Review | Owned | Complete!
 [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/) | Graham, Knuth, Patashnik | Math for Computer Science | Intermediate | Owned | Reference
 [Thinking Mathematically](https://www.amazon.com/Thinking-Mathematically-2nd-J-Mason/dp/0273728911) | Mason | Math | Intermediate | Owned | On Deck
+[How to Prove It](https://www.amazon.com/gp/product/0521675995/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) | Velleman | Math | Review | Owned | -
