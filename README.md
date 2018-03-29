@@ -1,6 +1,10 @@
 # cs_dev_plan
 My personal development past, present, and future in regards to computer science, data science, math, etc. 
 
+## Update: 
+  I have been admitted to Georgia Tech's Masters of Computer Science Program.  I will update this document to reflect my new goal
+  of being prepared for the curriculum once I reassess.
+  
 Both format and large portions of content have been taken from the OSSU computer science curriculum found here:
 https://github.com/ossu/computer-science/blob/master/README.md.
 
